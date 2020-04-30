@@ -1,2 +1,2 @@
 # cyri-mobile
-Business logic microservice
+Business logic microservice using Spring boot
