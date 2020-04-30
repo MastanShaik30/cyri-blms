@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.cyri</groupId>
-	<artifactId>mobile</artifactId>
+	<artifactId>businesslogic</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>mobile</name>
-	<description>Can you run it for Mobiles</description>
+	<name>businesslogic</name>
+	<description>Business Logic Microservice</description>
 
 	<properties>
 		<java.version>1.8</java.version>
